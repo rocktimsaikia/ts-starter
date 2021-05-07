@@ -5,17 +5,17 @@
   "main": "dist/index.js",
   "module": "dist/index.mjs",
   "types": "dist/index.d.ts",
-  "funding": "https://github.com/sponsors/antfu",
-  "author": "Anthony Fu <anthonyfu117@hotmail.com>",
+  "funding": "https://www.buymeacoffee.com/rocktimcodes",
+  "author": "Rocktim Saikia <rocktimthedev@gmail.com>",
   "license": "MIT",
   "sideEffects": false,
   "bugs": {
-    "url": "https://github.com/antfu/[name]/issues"
+    "url": "https://github.com/rocktimsaikia/[name]/issues"
   },
-  "homepage": "https://github.com/antfu/[name]#readme",
+  "homepage": "https://github.com/rocktimsaikia/[name]#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/antfu/[name].git"
+    "url": "git+https://github.com/rocktimsaikia/[name].git"
   },
   "keywords": [],
   "files": [
