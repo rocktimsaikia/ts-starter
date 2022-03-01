@@ -3,20 +3,16 @@
   "version": "0.0.0",
   "description": "",
   "main": "dist/index.js",
-  "type": "module",
   "types": "dist/index.d.ts",
-  "funding": "https://www.buymeacoffee.com/rocktimcodes",
-  "author": "Rocktim Saikia <rocktimthedev@gmail.com>",
+  "type": "module",
+  "funding": "https://buymeacoffee.com/rocktimcodes",
+  "author": {
+    "email": "rocktimthedev@gmail.com",
+    "name": "Rocktim Saikia",
+    "url": "https://rocktimcodes.com"
+  },
   "license": "MIT",
-  "sideEffects": false,
-  "bugs": {
-    "url": "https://github.com/rocktimsaikia/[name]/issues"
-  },
-  "homepage": "https://github.com/rocktimsaikia/[name]#readme",
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/rocktimsaikia/[name].git"
-  },
+  "repository": "rocktimsaikia/[name].git",
   "files": [
     "dist"
   ],
@@ -41,6 +37,9 @@
     "nodeArguments": [
       "--loader=ts-node/esm"
     ]
+  },
+  "np": {
+    "contents": "dist"
   },
   "keywords": []
 }
