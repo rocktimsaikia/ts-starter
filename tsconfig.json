@@ -1,7 +1,11 @@
 {
-  "compilerOptions": {
-    "strict": true,
-    "module": "ES2020",
-    "moduleResolution": "node",
-  }
+	"compilerOptions": {
+		"strict": true,
+		"module": "ES2020",
+		"target": "ES2019", // node 12
+		"moduleResolution": "node",
+		"outDir": "dist",
+		"declaration": true
+	},
+	"include": ["src"]
 }
